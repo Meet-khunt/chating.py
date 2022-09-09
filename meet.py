@@ -82,7 +82,7 @@ print(f"hallo!! {name}. you are {age} year old")
 
 print("---------------------\n")
 
-#string
+#list
 
 list="dog pen kali leptop python"
     # 0123456789......
@@ -108,7 +108,6 @@ print("---------------------\n")
 
 #bool
 
-#bool=-,+,*,% ....
 
 year =input("what is your born year ? \n")
 
@@ -150,8 +149,17 @@ basket.reverse()
 
 print(basket)
 
+print(list(range (1,101)))
+
+basket2=" $ "
+
+join_list=basket2.join([ 'hy','my','name','is','meet.' ])
+
+print(join_list)
+
+
+print(list(range(100)))
+
+
 print("---------------------\n")
-
-
-
 
